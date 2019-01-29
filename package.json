@@ -1,0 +1,13 @@
+{
+  "name": "comp308-w2019-lesson1a-master",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shefali Sharma",
+  "license": "ISC"
+}
